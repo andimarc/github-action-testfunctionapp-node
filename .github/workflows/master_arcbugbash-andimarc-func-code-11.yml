@@ -41,4 +41,4 @@ jobs:
         app-name: 'arcbugbash-andimarc-func-code-11'
         slot-name: 'production'
         package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d8ea5770191a423db5b0860b0fe712e4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f225a7ab1b0f44599076dc41a355626d }}
